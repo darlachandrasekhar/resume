@@ -1,0 +1,28 @@
+.font{
+   font-size:25px;
+   }
+.heading2{
+	text-align: right;
+}
+.heading4{
+	color: white;
+	background-color: black;
+	padding:5px
+}
+.card{
+	padding:Bpx;
+	margin:5px;
+}
+.myimg{
+	width:150px;
+	height:auto;
+	
+}
+
+body{
+	padding:40px;
+}
+.center{
+	text-align: center;
+}
+
