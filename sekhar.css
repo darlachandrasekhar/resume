@@ -21,6 +21,9 @@
 
 body{
 	padding:40px;
+	width: 50vw;
+	height: 50vh;
+	background-size: cover;
 	
 }
 .center{
