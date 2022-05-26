@@ -12,8 +12,8 @@
 .card{
 	padding:Bpx;
 	margin:5px;
-	width: 100vw;
-	height: 100vh;
+	width: 100%vw;
+	height: 100%vh;
 	background-size: cover; 
 	font-style: https://coolsymbol.com/text-decorator.html?style=handWriting&text=Preview%20Text;
 }
