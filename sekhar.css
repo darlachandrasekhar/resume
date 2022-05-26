@@ -1,3 +1,7 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=ABeeZee&family=Plus+Jakarta+Sans:ital,wght@0,300;1,200&display=swap" rel="stylesheet">
+
 .font{
    font-size:25px;
    }
@@ -25,6 +29,9 @@ body{
 	padding:40px;
 	width: 100%vw;
 	height: 100%vh;
+	
+	font-family: sans-serif;
+        font-family:  sans-serif;
 	
 }
 .center{
