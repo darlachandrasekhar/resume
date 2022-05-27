@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee&family=Plus+Jakarta+Sans:ital,wght@0,300;1,200&display=swap');
 
 .font{
    font-size:25px;
@@ -15,7 +15,7 @@
 	padding:Bpx;
 	margin:5px;
 	background-size: cover; 
-	font-style: https://coolsymbol.com/text-decorator.html?style=handWriting&text=Preview%20Text;
+	font-style: sans-serif;
 }
 .myimg{
 	width:150px;
